@@ -1,0 +1,7 @@
+CM4
+HQ Cam
+(None)
+Pi Zero
+Pi 3
+Pi 5 with Fan
+Raspberry
